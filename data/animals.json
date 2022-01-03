@@ -108,6 +108,13 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "cobra",
+      "species": "reptile",
+      "diet": "carnivore",
+      "personalityTraits": [],
+      "id": "11"
     }
   ]
 }
